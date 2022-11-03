@@ -1,4 +1,10 @@
-# How to use
+# Try Random AArch64 Assembly
+
+## Dependencies
+
+aarch64 cross compiler, gdb-multiarch.
+
+## How to use
 
 1. `make`
 2. `make run`
